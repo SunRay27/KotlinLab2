@@ -1,7 +1,4 @@
-import shapes2d.BaseShape
-import shapes2d.Color
-import shapes2d.ColoredShape2D
-import shapes2d.Shape2D
+import shapes2d.*
 import kotlin.reflect.KClass
 
 class ShapeCollector
